@@ -21,3 +21,9 @@
 - idea中配置tomcat，启动项目，运行 http://localhost:8080/shiyanshi (注意tomcat配置中deployment下的application context配置为/shiyanshi)
 
 -  管理员账号/密码： admin/123456  普通用户账号/密码： lisi/123456
+![0](https://github.com/Learning-Journey-Treasures/bysj-023/blob/master/1.png)
+![0](https://github.com/Learning-Journey-Treasures/bysj-023/blob/master/2.png)
+![0](https://github.com/Learning-Journey-Treasures/bysj-023/blob/master/3.png)
+![0](https://github.com/Learning-Journey-Treasures/bysj-023/blob/master/4.png)
+![0](https://github.com/Learning-Journey-Treasures/bysj-023/blob/master/5.png)
+![0](https://github.com/Learning-Journey-Treasures/bysj-023/blob/master/6.png)
